@@ -1,3 +1,3 @@
-Full Name: Insha Maryam                  
-               Machine Learning Enthusiast | Web Engineer | Program
-  Location: Islamabad, Pakistan
+Full Name: ORUM TECHNOLOGIES                  
+               Machine LearninG | Web Engineer | Program
+  Location: Islamabad, PakistAN
