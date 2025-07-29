@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Insha Maryam</h1>
- <h2 align ="center"C> CS Graduate | 💻 Frontend Dev | 🌱 Learning React  
-🔧 Skills: HTML, CSS, JS, Bootstrap, Git  
-🌐 Website: [My Portfolio](https://inshamaryam.github.io)  
-📫 Email: itzinshamaryam07@gmail.com  </h2>
-
 <h3 align="center">A passionate Frontend Developer and CS Graduate </h3>
 
 - 🎓 CS Graduate from Iqra University 
 - 💻 I love building clean and responsive websites  
 - 🌱 Currently learning React.js and Full Stack Development
-- 🔭 Working on: Bakery POS System, OromTech Website  
+- 🔧 Skills: HTML, CSS, JS, Bootstrap, Github 
+- 🔭 Working on: Bakery POS System, OromTech Website
+- 🌐 Website: [My Portfolio](https://inshamaryam.github.io)  
 - 📫 How to reach me: itzinshamaryam07@gmail.com
 
 
